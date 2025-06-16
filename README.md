@@ -8,9 +8,9 @@
 ### 🌟 About Me
 
 - 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **React, Next.js, Golang**
+- 🌱 I'm currently learning **React, Next.js, React Native**
 - 💬 Ask me about **JavaScript, Vue.js, React, Node.js**
-- 📫 How to reach me: **JacksonHe04c@gmail.com**
+- 📫 How to reach me: **jacksonhe@seu.edu.cn**
 
 ### 🛠 Tech Stack
 
