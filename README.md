@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
 </p>
 
-### 🌟 About Me
-
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **React, Next.js, React Native**
-- 💬 Ask me about **JavaScript, Vue.js, React, Node.js**
-- 📫 How to reach me: **jacksonhe@seu.edu.cn**
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -37,19 +30,104 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksonhe04&show_icons=true&theme=default" alt="GitHub Stats" />
-</div>
+<!-- GitHub 统计 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=default" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonhe04&theme=default" alt="GitHub Streak" />
-</div>
+<p align="center">
+<!-- 一年贡献山峰 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
+    <!-- 提交时间统计 -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
+</p>
 
-### 📈 Most Used Languages
+## ⭐ Pinned Projects
 
+### Personal Project
+
+<p align="center">
+<!-- flow-flat -->
+  <a href="https://github.com/JacksonHe04/flow-flat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=flow-flat&theme=default" />
+  </a>
+  <!-- liken -->
+      <a href="https://github.com/JacksonHe04/liken">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=liken&theme=default" />
+  </a>
+</p>
+<p align="center">
+  <!-- find-yourself -->
+  <a href="https://github.com/JacksonHe04/find-yourself">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=find-yourself&theme=default" />
+  </a>
+</p>
+
+### Team Projects
+
+<p align="center">
+  <a href="https://github.com/JacksonHe04/palm-ams">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=palm-ams&theme=default" />
+  </a>
+    <a href="https://github.com/JacksonHe04/bing-wen-book-store">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=bing-wen-book-store&theme=default" />
+  </a>
+</p>
+
+### Open Source Projects I Have Contributed To
+
+<p align="center">
+    <a href="https://github.com/Warma10032/VideoAdGuard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=VideoAdGuard&theme=default" />
+  </a>
+
+</p>
+
+### Projects From courses
+<p align="center">
+<!-- multi-agent-system -->
+<a href="https://github.com/JacksonHe04/multi-agent-system">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=multi-agent-system&theme=default" />
+<!-- auto-planning -->
+<a href="https://github.com/JacksonHe04/auto-planning">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=auto-planning&theme=default" />
+</p>
+</a>
+<!-- smart-table-llm -->
+<a href="https://github.com/JacksonHe04/smart-table-llm">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=smart-table-llm&theme=default" />
+</a>
+<!-- seu-rating -->
+<a href="https://github.com/JacksonHe04/seu-rating">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=seu-rating&theme=default" />
+</a>
+</p>
+
+### Projects For Practice
+<p align="center">
+<!-- coding-in-javascript -->
+<a href="https://github.com/JacksonHe04/coding-in-javascript">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=coding-in-javascript&theme=default" />
+<!-- mini-react-by-ts -->
+<a href="https://github.com/JacksonHe04/mini-react-by-ts">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=mini-react-by-ts&theme=default" />
+</a>
+
+</p>
+
+## 📈 Most Used Languages
+
+<!-- 语言统计 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonhe04&layout=compact&theme=default" alt="Top Languages" />
 </div>
+
+<p align="center">
+<!-- 仓库语言统计 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=default" />
+  <!-- 提交语言统计 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=default" />
+</p>
 
 ### 🏆 GitHub Trophies
 
