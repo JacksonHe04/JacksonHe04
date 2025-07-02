@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
 </p>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -38,12 +38,9 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
 <p align="center">
 <!-- 一年贡献山峰 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
-    <!-- 提交时间统计 -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
 </p>
 
 ## ⭐ Pinned Projects
@@ -84,7 +81,7 @@
   </a>
 </div>
 
-### Projects From courses
+### Projects From Courses
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- multi-agent-system -->
@@ -118,7 +115,7 @@
   </a>
 </div>
 
-## 📈 Most Used Languages
+## 📈 Coding Preferences
 
 <!-- 语言统计 -->
 <div align="center">
@@ -126,11 +123,18 @@
 </div>
 
 <p align="center">
-<!-- 仓库语言统计 -->
+  <!-- 仓库语言统计 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=default" />
   <!-- 提交语言统计 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=default" />
 </p>
+
+<p align="center">
+<!-- 提交时间统计 -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
+</p>
+
+## 📊 GitHub Stats
 
 ### 🏆 GitHub Trophies
 
