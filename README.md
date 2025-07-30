@@ -48,6 +48,10 @@
 ### Personal Project
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- QuAIz -->
+  <a href="https://github.com/JacksonHe04/quaiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=quaiz&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
+  </a>
   <!-- flow-flat -->
   <a href="https://github.com/JacksonHe04/flow-flat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=flow-flat&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
@@ -88,13 +92,13 @@
   <a href="https://github.com/JacksonHe04/multi-agent-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=multi-agent-system&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
   </a>
+    <!-- smart-table-llm -->
+  <a href="https://github.com/JacksonHe04/smart-table-llm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=smart-table-llm&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
+  </a>
   <!-- auto-planning -->
   <a href="https://github.com/JacksonHe04/auto-planning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=auto-planning&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- smart-table-llm -->
-  <a href="https://github.com/JacksonHe04/smart-table-llm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=smart-table-llm&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
   </a>
   <!-- seu-rating -->
   <a href="https://github.com/JacksonHe04/seu-rating">
