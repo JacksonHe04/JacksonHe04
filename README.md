@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">A Passionate Front-end Developer From China</h3>
+<h3 align="center">A Passionate Full-stack Developer From China</h3>
 
 <p align="center">
   <a href="https://jacksonhe.notion.site" target="_blank">
