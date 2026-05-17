@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">A AI Native Full-stack Developer From China</h3>
+<h3 align="center">An AI Native Full-stack Developer From China</h3>
 
 <p align="center">
+  <a href="https://inon.space" target="_blank">
+    <img src="https://img.shields.io/badge/inon.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
   <a href="https://jacksonhe.notion.site" target="_blank">
-    <img src="https://img.shields.io/badge/📖_Personal_Blog-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Personal Blog" />
+    <img src="https://img.shields.io/badge/📖_Blog-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
+</p>
+
+<p align="center">
+  <em>像 Agent 一样，自进化，自闭环。<br>这个时代在执行层并没有什么壁垒可言，但你得做好这三件事：<strong>Practice, ROI, Clean</strong></em>
 </p>
 
 ## 🚀 Journey
@@ -27,30 +34,58 @@
 
 ## 🛠 Tech Stack
 
+**Languages** — 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend** — 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/-Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+
+**Backend** — 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Build Tools** — 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+**Database** — 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI / LLM** — 
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-000000?style=flat-square&logo=codeium&logoColor=white)
+
+**DevOps & Testing** — 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 <p align="center">
 <!-- 一年贡献山峰 -->
@@ -58,11 +93,6 @@
 </p>
 
 ## 📈 Coding Preferences
-
-<!-- 语言统计 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonhe04&layout=compact&theme=default" alt="Top Languages" />
-</div>
 
 <p align="center">
   <!-- 仓库语言统计 -->
