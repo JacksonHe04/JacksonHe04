@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">An AI Native Full-stack Developer From China</h3>
+<h3 align="center">An AI Native Product Engineering and Full-stack Developer From China</h3>
 
 <p align="center">
   <a href="https://inon.space" target="_blank">
@@ -12,6 +12,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
+</p>
+
+<p align="center">
+  I'm interested in and have practiced Coding Agent, AI DevOps, Multi-modal & World Model, Enterprise Agentic Reconstruction, Agent Memory, and AI Infra. Feel free to chat with me: <a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
 </p>
 
 <p align="center">
@@ -128,10 +132,7 @@
   <img src="https://github.com/jacksonhe04/jacksonhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
----
-
 <p align="center">
 <!-- 一年贡献山峰 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
-
