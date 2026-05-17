@@ -34,8 +34,11 @@
 
 ## 🛠 Tech Stack
 
-以下每个技术栈，我都能和你讲一个我和它的故事，就像一张专辑一样。
+<p align="center">
+  以下每个技术栈，我都能和你讲一个我和它的故事，就像一张专辑一样。
+</p>
 
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,6 +98,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+</p>
 
 <p align="center">
 <!-- 一年贡献山峰 -->
