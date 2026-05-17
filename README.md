@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">An AI Native Product Engineering and Full-stack Developer From China</h3>
+<h3 align="center">An AI Native Product Engineer and Full-stack Developer From China</h3>
 
 <p align="center">
   <a href="https://inon.space" target="_blank">
