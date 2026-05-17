@@ -100,11 +100,6 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
-<p align="center">
-<!-- 一年贡献山峰 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
-</p>
-
 ## 📈 Coding Preferences
 
 <p align="center">
@@ -134,3 +129,9 @@
 </div>
 
 ---
+
+<p align="center">
+<!-- 一年贡献山峰 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
+</p>
+
