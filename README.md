@@ -29,13 +29,13 @@
 </p>
 
 <p align="center">
-  Southeast University → Z.AI → Meituan
+  <em>Southeast University → Z.AI → Meituan</em>
 </p>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  以下每个技术栈，我都能和你讲一个我和它的故事，就像一张专辑一样。
+  <em>以下每个技术栈，我都能和你讲一个我和它的故事，就像一张专辑一样。</em>
 </p>
 
 <div align="center">
