@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">A Passionate Full-stack Developer From China</h3>
+<h3 align="center">A AI Native Full-stack Developer From China</h3>
 
 <p align="center">
   <a href="https://jacksonhe.notion.site" target="_blank">
@@ -9,6 +9,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
+</p>
+
+## 🚀 Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/df20db8d9ea9906395316106a4f37a3670e15b4a/seu_logo_svg_full.svg" height="30" alt="Southeast University" />
+  
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/zai_logo_svg.svg" height="30" alt="Z.AI" />
+  
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
+</p>
+
+<p align="center">
+  Southeast University → Z.AI → Meituan
 </p>
 
 ## 🛠 Tech Stack
@@ -42,82 +56,6 @@
 <!-- 一年贡献山峰 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
-
-## ⭐ Pinned Projects
-
-### Personal Project
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- QuAIz -->
-  <a href="https://github.com/JacksonHe04/quaiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=quaiz&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- flow-flat -->
-  <a href="https://github.com/JacksonHe04/flow-flat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=flow-flat&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- liken -->
-  <a href="https://github.com/JacksonHe04/liken">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=liken&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- find-yourself -->
-  <a href="https://github.com/JacksonHe04/find-yourself">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=find-yourself&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-</div>
-
-### Team Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/JacksonHe04/palm-ams">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=palm-ams&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <a href="https://github.com/JacksonHe04/bing-wen-book-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=bing-wen-book-store&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-</div>
-
-### Open Source Projects I Have Contributed To
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Warma10032/VideoAdGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=VideoAdGuard&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-</div>
-
-### Projects From Courses
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- multi-agent-system -->
-  <a href="https://github.com/JacksonHe04/multi-agent-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=multi-agent-system&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-    <!-- smart-table-llm -->
-  <a href="https://github.com/JacksonHe04/smart-table-llm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=smart-table-llm&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- auto-planning -->
-  <a href="https://github.com/JacksonHe04/auto-planning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=auto-planning&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- seu-rating -->
-  <a href="https://github.com/JacksonHe04/seu-rating">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=seu-rating&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-</div>
-
-### Projects For Practice
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- coding-in-javascript -->
-  <a href="https://github.com/JacksonHe04/coding-in-javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=coding-in-javascript&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-  <!-- mini-react-by-ts -->
-  <a href="https://github.com/JacksonHe04/mini-react-by-ts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonHe04&repo=mini-react-by-ts&theme=default" style="flex: 0 0 calc(50% - 5px); max-width: 400px;" />
-  </a>
-</div>
 
 ## 📈 Coding Preferences
 
