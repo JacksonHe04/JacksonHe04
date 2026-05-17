@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  I'm interested in and have practiced Coding Agent, AI DevOps, Multi-modal & World Model, Enterprise Agentic Reconstruction, Agent Memory, and AI Infra. Feel free to chat with me: <a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
+  I'm interested in and have practiced <strong>Coding Agent</strong>, <strong>AI DevOps</strong>, <strong>Multi-modal & World Model</strong>, <strong>Enterprise Agentic Reconstruction</strong>, <strong>Agent Memory</strong>, <strong>AI Infra</strong>, and <strong>Proactive AI</strong>. Feel free to chat with me: <a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
 </p>
 
 <p align="center">
