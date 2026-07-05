@@ -10,11 +10,23 @@
 <h3 align="center">An AI Native Product Engineer and Full-stack Developer From China</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Evolve+and+close+the+loop+like+an+Agent." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://inon.space" target="_blank">
-    <img src="https://img.shields.io/badge/inon.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-inon.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://jacksonhe.notion.site" target="_blank">
-    <img src="https://img.shields.io/badge/📖_Blog-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    <img src="https://img.shields.io/badge/Blog-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+  <a href="mailto:yingyingdontkill@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JacksonHe04">
+    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -23,7 +35,7 @@
 </p>
 
 <p align="center">
-  I'm interested in and have practiced <strong>Coding Agent</strong>, <strong>AI DevOps</strong>, <strong>Multi-modal & World Model</strong>, <strong>Enterprise Agentic Reconstruction</strong>, <strong>Agent Memory</strong>, <strong>AI Infra</strong>, and <strong>Proactive AI</strong>. Feel free to chat with me: <a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
+  I'm interested in and have practiced <strong>Coding Agent</strong>, <strong>AI DevOps</strong>, <strong>Multi-modal & World Model</strong>, <strong>Enterprise Agentic Reconstruction</strong>, <strong>Agent Memory</strong>, <strong>AI Infra</strong>, and <strong>Proactive AI</strong>.
 </p>
 
 <p align="center">
@@ -127,6 +139,10 @@
 </p>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### 🏆 GitHub Trophies
 
