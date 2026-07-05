@@ -1,11 +1,11 @@
 <!-- Top Title: Hero Green #2EA043 (size=28, height=42) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&height=42&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi 👋, I'm Jackson He" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&height=42&duration=1000&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi 👋, I'm Jackson He" />
 </p>
 
 <!-- Subtitle (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%26+%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&hideCursor=true" alt="AI Native プロダクトエンジニア & フルスタックエンジニア" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%26+%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&hideCursor=true" alt="AI Native プロダクトエンジニア & フルスタックエンジニア" />
 </p>
 
 <!-- Contact Badges Wall -->
@@ -39,19 +39,19 @@
 
 <!-- Motto (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Agent%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%97%E3%80%81%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E5%AE%8C%E7%B5%90%E3%81%95%E3%81%9B%E3%82%8B%E3%80%82&hideCursor=true" alt="Agentのように進化し、ループを完結させる。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Agent%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%97%E3%80%81%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E5%AE%8C%E7%B5%90%E3%81%95%E3%81%9B%E3%82%8B%E3%80%82&hideCursor=true" alt="Agentのように進化し、ループを完結させる。" />
 </p>
 
 <!-- Principles (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E5%AE%9F%E8%B7%B5%2C+ROI%2C+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3&hideCursor=true" alt="実践, ROI, クリーン" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E5%AE%9F%E8%B7%B5%2C+ROI%2C+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3&hideCursor=true" alt="実践, ROI, クリーン" />
 </p>
 
 <br>
 
 <!-- Section 1: Journey Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+%E7%B5%8C%E6%AD%B4&hideCursor=true" alt="🚀 経歴" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+%E7%B5%8C%E6%AD%B4&hideCursor=true" alt="🚀 経歴" />
 </p>
 
 <p align="center">
@@ -64,14 +64,14 @@
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E6%9D%B1%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A3&hideCursor=true" alt="東南大学 → Z.AI → 美団" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E6%9D%B1%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A3&hideCursor=true" alt="東南大学 → Z.AI → 美団" />
 </p>
 
 <br>
 
 <!-- Section 2: Tech Stack Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF&hideCursor=true" alt="🛠 技術スタック" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF&hideCursor=true" alt="🛠 技術スタック" />
 </p>
 
 <div align="center">
@@ -140,7 +140,7 @@
 
 <!-- Section 3: Analytics & Stats Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9+%26+%E7%B5%B1%E8%A8%88&hideCursor=true" alt="📊 アナリティクス & 統計" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9+%26+%E7%B5%B1%E8%A8%88&hideCursor=true" alt="📊 アナリティクス & 統計" />
 </p>
 
 <!-- Analytics Row 1 -->
@@ -165,7 +165,7 @@
 
 <!-- Subheader: GitHub Trophies (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC&hideCursor=true" alt="🏆 GitHub トロフィー" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC&hideCursor=true" alt="🏆 GitHub トロフィー" />
 </p>
 
 <div align="center">
@@ -176,7 +176,7 @@
 
 <!-- Subheader: Contribution Grid (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89&hideCursor=true" alt="🟩 コントリビューショングリッド" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89&hideCursor=true" alt="🟩 コントリビューショングリッド" />
 </p>
 
 <div align="center">
@@ -187,7 +187,7 @@
 
 <!-- Subheader: Contribution Snake Game (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%8D%E3%83%BC%E3%82%AF%E3%82%B2%E3%83%BC%E3%83%A0&hideCursor=true" alt="🐍 コントリビューションスネークゲーム" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%8D%E3%83%BC%E3%82%AF%E3%82%B2%E3%83%BC%E3%83%A0&hideCursor=true" alt="🐍 コントリビューションスネークゲーム" />
 </p>
 
 <div align="center">

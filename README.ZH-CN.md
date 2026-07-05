@@ -1,11 +1,11 @@
 <!-- Top Title: Hero Green #2EA043 (size=28, height=42) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&height=42&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi 👋, I'm Jackson He" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&height=42&duration=1000&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi 👋, I'm Jackson He" />
 </p>
 
 <!-- Subtitle (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+%E4%BA%A7%E5%93%81%E5%B7%A5%E7%A8%8B%E5%B8%88+%26+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85&hideCursor=true" alt="AI Native 产品工程师 & 全栈开发者" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+%E4%BA%A7%E5%93%81%E5%B7%A5%E7%A8%8B%E5%B8%88+%26+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85&hideCursor=true" alt="AI Native 产品工程师 & 全栈开发者" />
 </p>
 
 <!-- Contact Badges Wall -->
@@ -39,19 +39,19 @@
 
 <!-- Motto (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E5%83%8F+Agent+%E4%B8%80%E6%A0%B7%E8%87%AA%E8%BF%9B%E5%8C%96%E3%80%81%E8%87%AA%E9%97%AD%E7%8E%AF%E3%80%82&hideCursor=true" alt="像 Agent 一样自进化、自闭环。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E5%83%8F+Agent+%E4%B8%80%E6%A0%B7%E8%87%AA%E8%BF%9B%E5%8C%96%E3%80%81%E8%87%AA%E9%97%AD%E7%8E%AF%E3%80%82&hideCursor=true" alt="像 Agent 一样自进化、自闭环。" />
 </p>
 
 <!-- Principles (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E4%BA%8B%E4%B8%8A%E7%A3%A8%2C+ROI%2C+%E5%B9%B2%E5%87%80&hideCursor=true" alt="事上磨, ROI, 干净" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E4%BA%8B%E4%B8%8A%E7%A3%A8%2C+ROI%2C+%E5%B9%B2%E5%87%80&hideCursor=true" alt="事上磨, ROI, 干净" />
 </p>
 
 <br>
 
 <!-- Section 1: Journey Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+%E5%8E%86%E7%A8%8B&hideCursor=true" alt="🚀 历程" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+%E5%8E%86%E7%A8%8B&hideCursor=true" alt="🚀 历程" />
 </p>
 
 <p align="center">
@@ -64,19 +64,19 @@
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团" />
 </p>
 
 <br>
 
 <!-- Section 2: Tech Stack Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+%E6%8A%80%E6%9C%AF%E6%A0%88&hideCursor=true" alt="🛠 技术栈" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+%E6%8A%80%E6%9C%AF%E6%A0%88&hideCursor=true" alt="🛠 技术栈" />
 </p>
 
 <!-- Tech Stack Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E4%B8%8E%E5%AE%83%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82&hideCursor=true" alt="以下的每一个技术，我都可以讲一个我与它的故事。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=700&lines=%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E4%B8%8E%E5%AE%83%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82&hideCursor=true" alt="以下的每一个技术，我都可以讲一个我与它的故事。" />
 </p>
 
 <div align="center">
@@ -145,7 +145,7 @@
 
 <!-- Section 3: Analytics & Stats Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%BB%9F%E8%AE%A1&hideCursor=true" alt="📊 数据与统计" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%BB%9F%E8%AE%A1&hideCursor=true" alt="📊 数据与统计" />
 </p>
 
 <!-- Analytics Row 1 -->
@@ -170,7 +170,7 @@
 
 <!-- Subheader: GitHub Trophies (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+%E5%A5%96%E7%89%8C%E6%A6%9C&hideCursor=true" alt="🏆 GitHub 奖牌榜" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+%E5%A5%96%E7%89%8C%E6%A6%9C&hideCursor=true" alt="🏆 GitHub 奖牌榜" />
 </p>
 
 <div align="center">
@@ -181,7 +181,7 @@
 
 <!-- Subheader: Contribution Grid (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+%E8%B4%A1%E7%8C%AE%E7%BD%91%E6%A0%BC&hideCursor=true" alt="🟩 贡献网格" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+%E8%B4%A1%E7%8C%AE%E7%BD%91%E6%A0%BC&hideCursor=true" alt="🟩 贡献网格" />
 </p>
 
 <div align="center">
@@ -192,7 +192,7 @@
 
 <!-- Subheader: Contribution Snake Game (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+%E8%B4%A1%E7%8C%AE%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F&hideCursor=true" alt="🐍 贡献贪吃蛇游戏" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+%E8%B4%A1%E7%8C%AE%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F&hideCursor=true" alt="🐍 贡献贪吃蛇游戏" />
 </p>
 
 <div align="center">
