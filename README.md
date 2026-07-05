@@ -30,10 +30,10 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
-<!-- Tech Focus Typing Animation (Group A: size=16, height=28) -->
+<!-- Tech Focus Typing Animation: Hero Green #2EA043 (Group A: size=16, height=28) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Agent+Memory+%7C+AI+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=World+Model+%26+Multi-Modal;Coding+Agent+%26+AI+DevOps;Agent+Memory+%26+Long+Horizon;AI+in+Gaming+%26+Music+%26+Emotion" alt="Typing SVG" />
   </a>
 </p>
 
