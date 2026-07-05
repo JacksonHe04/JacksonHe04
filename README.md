@@ -1,14 +1,14 @@
-<!-- 1. Title: Hero Green #2EA043 (height=45) -->
+<!-- Top Title: Hero Green #2EA043 (size=28, height=42) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi, I'm Jackson He" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&height=42&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi, I'm Jackson He" />
 </p>
 
-<!-- 2. Subtitle: Muted Gray #8B949E (height=25) -->
+<!-- Subtitle (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&height=25&lines=AI+Native+Product+Engineer+%26+Full-stack+Developer&hideCursor=true" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+Product+Engineer+%26+Full-stack+Developer&hideCursor=true" alt="Subtitle" />
 </p>
 
-<!-- 3. Contact Badges Wall -->
+<!-- Contact Badges Wall -->
 <div align="center">
 <a href="https://inon.space" target="_blank"><img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Website" /></a>
 <a href="https://x.com/y1n8y1n8" target="_blank"><img src="https://img.shields.io/badge/X-y1n8y1n8-2ea043?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter" /></a>
@@ -16,12 +16,12 @@
 <a href="mailto:yingyingdontkill@gmail.com"><img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 </div>
 
-<!-- 4. Profile Views on its own line centered -->
-<div align="center" style="margin-top: 6px;">
+<!-- Profile Views on its own line centered -->
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- 5. Language Switcher Bar -->
+<!-- Language Switcher Bar -->
 <p align="center">
   🌐
   <a href="./README.md">English</a> | 
@@ -30,26 +30,28 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
-<!-- 6. Tech Focus Typing Animation: Hero Green #2EA043 (height=25) -->
+<!-- Tech Focus Typing Animation (Group A: size=16, height=28) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&height=25&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Agent+Memory+%7C+AI+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Agent+Memory+%7C+AI+Infra" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 7. Motto: Muted Gray #8B949E (height=25) -->
+<!-- Motto (Group A: size=16, height=28) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&height=25&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&height=28&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
 </p>
 
-<!-- 8. Principles: Muted Gray #8B949E (height=22) -->
+<!-- Principles (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&height=22&lines=Practice%2C+ROI%2C+Clean&hideCursor=true" alt="Principles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Practice%2C+ROI%2C+Clean&hideCursor=true" alt="Principles" />
 </p>
 
-<!-- Section 1: Journey (height=30) -->
+<br>
+
+<!-- Section 1: Journey Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&height=30&lines=%F0%9F%9A%80+Journey&hideCursor=true" alt="Journey Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+Journey&hideCursor=true" alt="Journey Header" />
 </p>
 
 <p align="center">
@@ -60,13 +62,16 @@
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
 </p>
 
+<!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&height=22&lines=Southeast+University+%E2%86%92+Z.AI+%E2%86%92+Meituan&hideCursor=true" alt="Journey Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=Southeast+University+%E2%86%92+Z.AI+%E2%86%92+Meituan&hideCursor=true" alt="Journey Subtitle" />
 </p>
 
-<!-- Section 2: Tech Stack (height=30) -->
+<br>
+
+<!-- Section 2: Tech Stack Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&height=30&lines=%F0%9F%9B%A0+Tech+Stack&hideCursor=true" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+Tech+Stack&hideCursor=true" alt="Tech Stack Header" />
 </p>
 
 <div align="center">
@@ -131,53 +136,58 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
-<!-- Section 3: Analytics & Stats (height=30) -->
+<br>
+
+<!-- Section 3: Analytics & Stats Header (size=18, height=32) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&height=30&lines=%F0%9F%93%8A+Analytics+%26+Stats&hideCursor=true" alt="Analytics & Stats Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+Analytics+%26+Stats&hideCursor=true" alt="Analytics & Stats Header" />
 </p>
 
+<!-- Analytics Row 1 -->
 <p align="center">
-  <!-- Repository Language Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=default" />
-  <!-- Most Committed Languages -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=default" />
 </p>
 
+<!-- Analytics Row 2 -->
 <p align="center">
-  <!-- Overall Stats Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacksonHe04&theme=default" />
-  <!-- Productive Time Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
 </p>
 
+<!-- Analytics Row 3 -->
 <p align="center">
-  <!-- Streak Counter -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=green&hide_border=false" />
-  <!-- Profile details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
 
-<!-- Trophies Subheader (height=25) -->
+<br>
+
+<!-- Subheader: GitHub Trophies (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&height=25&lines=%F0%9F%8F%86+GitHub+Trophies&hideCursor=true" alt="GitHub Trophies Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+Trophies&hideCursor=true" alt="GitHub Trophies Header" />
 </p>
 
 <div align="center">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=JacksonHe04&theme=flat&rank=-?&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<!-- Contribution Grid Subheader (height=25) -->
+<br>
+
+<!-- Subheader: Contribution Grid (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&height=25&lines=%F0%9F%9F%A9+Contribution+Grid&hideCursor=true" alt="Contribution Grid Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+Contribution+Grid&hideCursor=true" alt="Contribution Grid Header" />
 </p>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/2ea043/JacksonHe04" alt="Contribution Grid" />
 </div>
 
-<!-- Contribution Snake Game Subheader (height=25) -->
+<br>
+
+<!-- Subheader: Contribution Snake Game (size=15, height=26) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&height=25&lines=%F0%9F%90%8D+Contribution+Snake+Game&hideCursor=true" alt="Contribution Snake Game Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&height=26&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+Contribution+Snake+Game&hideCursor=true" alt="Contribution Snake Game Header" />
 </p>
 
 <div align="center">
