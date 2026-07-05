@@ -1,11 +1,3 @@
-<p align="center">
-  🌐 <strong>Languages:</strong> 
-  <a href="./README.md">English</a> | 
-  <a href="./README.zh-CN.md">简体中文</a> | 
-  <a href="./README.zh-TW.md">繁體中文</a> | 
-  <a href="./README.ja.md">日本語</a>
-</p>
-
 <!-- Title: Hero Green #2EA043 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi, I'm Jackson He" />
@@ -23,22 +15,14 @@
   </a>
 </p>
 
-<!-- Contact Badges Wall -->
-<p align="center">
-  <a href="https://inon.space" target="_blank">
-    <img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Website" />
-  </a>
-  <a href="https://github.com/JacksonHe04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
-  </a>
-  <a href="https://x.com/y1n8y1n8" target="_blank">
-    <img src="https://img.shields.io/badge/X-y1n8y1n8-2ea043?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter" />
-  </a>
-  <a href="mailto:yingyingdontkill@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Profile_Views-Active-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Profile Views" />
-</p>
+<!-- Contact Badges Wall without Underlines -->
+<div align="center">
+<a href="https://inon.space" target="_blank"><img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Website" /></a>
+<a href="https://x.com/y1n8y1n8" target="_blank"><img src="https://img.shields.io/badge/X-y1n8y1n8-2ea043?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter" /></a>
+<a href="https://www.npmjs.com/~jacksonhe04" target="_blank"><img src="https://img.shields.io/badge/NPM-jacksonhe04-2ea043?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d1117" alt="NPM" /></a>
+<a href="mailto:yingyingdontkill@gmail.com"><img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Profile_Views-Active-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Profile Views" />
+</div>
 
 <!-- Motto: Muted Gray #8B949E -->
 <p align="center">
@@ -48,6 +32,15 @@
 <!-- Principles: Muted Gray #8B949E -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Practice%2C+ROI%2C+Clean&hideCursor=true" alt="Principles" />
+</p>
+
+<!-- Languages Navigation Bar -->
+<p align="center">
+  🌐 <strong>Languages:</strong> 
+  <a href="./README.md">English</a> | 
+  <a href="./README.zh-CN.md">简体中文</a> | 
+  <a href="./README.zh-TW.md">繁體中文</a> | 
+  <a href="./README.ja.md">日本語</a>
 </p>
 
 <!-- Journey Section Header: Muted Gray #8B949E -->
