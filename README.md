@@ -6,20 +6,24 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
+<!-- Title: Hero Green #2EA043 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jackson+He&hideCursor=true" alt="Hi, I'm Jackson He" />
 </p>
 
+<!-- Subtitle: Muted Gray #8B949E -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=AI+Native+Product+Engineer+%26+Full-stack+Developer&hideCursor=true" alt="Subtitle" />
 </p>
 
+<!-- Tech Focus Typing Animation: Hero Green #2EA043 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Agent+Memory+%7C+AI+Infra" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Contact Badges Wall -->
 <p align="center">
   <a href="https://inon.space" target="_blank">
     <img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Website" />
@@ -36,16 +40,19 @@
   <img src="https://img.shields.io/badge/Profile_Views-Active-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Profile Views" />
 </p>
 
+<!-- Motto: Muted Gray #8B949E -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000000&color=C9D1D9&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
 </p>
 
+<!-- Principles: Muted Gray #8B949E -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=600&lines=Practice%2C+ROI%2C+Clean&hideCursor=true" alt="Principles" />
 </p>
 
+<!-- Journey Section Header: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=F0F6FC&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+Journey&hideCursor=true" alt="Journey Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9A%80+Journey&hideCursor=true" alt="Journey Header" />
 </p>
 
 <p align="center">
@@ -60,8 +67,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=Southeast+University+%E2%86%92+Z.AI+%E2%86%92+Meituan&hideCursor=true" alt="Journey Subtitle" />
 </p>
 
+<!-- Tech Stack Section Header: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=F0F6FC&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+Tech+Stack&hideCursor=true" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+Tech+Stack&hideCursor=true" alt="Tech Stack Header" />
 </p>
 
 <div align="center">
@@ -126,8 +134,9 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
+<!-- Analytics Section Header: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=F0F6FC&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+Analytics+%26+Stats&hideCursor=true" alt="Analytics & Stats Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=400&lines=%F0%9F%93%8A+Analytics+%26+Stats&hideCursor=true" alt="Analytics & Stats Header" />
 </p>
 
 <p align="center">
@@ -151,24 +160,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
 
+<!-- Trophies Subheader: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=C9D1D9&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+Trophies&hideCursor=true" alt="GitHub Trophies Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%8F%86+GitHub+Trophies&hideCursor=true" alt="GitHub Trophies Header" />
 </p>
 
 <div align="center">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=JacksonHe04&theme=flat&rank=-?&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+<!-- Contribution Grid Subheader: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=C9D1D9&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+Contribution+Grid&hideCursor=true" alt="Contribution Grid Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9F%A9+Contribution+Grid&hideCursor=true" alt="Contribution Grid Header" />
 </p>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/2ea043/JacksonHe04" alt="Contribution Grid" />
 </div>
 
+<!-- Contribution Snake Game Subheader: Muted Gray #8B949E -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=C9D1D9&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+Contribution+Snake+Game&hideCursor=true" alt="Contribution Snake Game Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%90%8D+Contribution+Snake+Game&hideCursor=true" alt="Contribution Snake Game Header" />
 </p>
 
 <div align="center">
