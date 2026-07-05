@@ -74,6 +74,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF&hideCursor=true" alt="🛠 技術スタック" />
 </p>
 
+<!-- Tech Stack Subtitle (Group B: size=13, height=22) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=700&lines=%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%90%84%E6%8A%80%E8%A1%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%81%E7%A7%81%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%A8%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%92%E8%AA%9E%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82&hideCursor=true" alt="以下の各技術について、私とそれとのストーリーを語ることができます。" />
+</p>
+
 <div align="center">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />

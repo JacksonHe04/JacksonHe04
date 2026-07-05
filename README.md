@@ -74,6 +74,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&height=32&duration=1000&pause=1000000&color=8B949E&center=false&vcenter=true&width=300&lines=%F0%9F%9B%A0+Tech+Stack&hideCursor=true" alt="🛠 Tech Stack" />
 </p>
 
+<!-- Tech Stack Subtitle (Group B: size=13, height=22) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=650&lines=For+every+technology+below%2C+I+can+tell+a+story+of+my+journey+with+it.&hideCursor=true" alt="For every technology below, I can tell a story of my journey with it." />
+</p>
+
 <div align="center">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
