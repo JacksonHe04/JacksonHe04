@@ -1,3 +1,5 @@
+<div style="font-family: 'Fira Code', monospace;">
+
 <p align="center">
   🌐 <strong>Languages:</strong> 
   <a href="./README.md">English</a> | 
@@ -6,8 +8,8 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">An AI Native Product Engineer and Full-stack Developer From China</h3>
+<h1 align="center" style="font-family: 'Fira Code', monospace;">Hi 👋, I'm Jackson He</h1>
+<h3 align="center" style="font-family: 'Fira Code', monospace;">An AI Native Product Engineer and Full-stack Developer From China</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -35,11 +37,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Fira Code', monospace;">
   <em>In this era, there are no real barriers at the execution layer, but you must master three things: <strong>Practice, ROI, Clean</strong></em>
 </p>
 
-## 🚀 Journey
+<h2 style="font-family: 'Fira Code', monospace;">🚀 Journey</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/df20db8d9ea9906395316106a4f37a3670e15b4a/seu_logo_svg_full.svg" height="30" alt="Southeast University" />
@@ -49,13 +51,13 @@
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Fira Code', monospace;">
   <em>Southeast University → Z.AI → Meituan</em>
 </p>
 
-## 🛠 Tech Stack
+<h2 style="font-family: 'Fira Code', monospace;">🛠 Tech Stack</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Fira Code', monospace;">
   <em>For every tech stack listed below, I can tell you a story of my journey with it, like tracks on an album.</em>
 </p>
 
@@ -121,7 +123,7 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
-## 📊 Analytics & Stats
+<h2 style="font-family: 'Fira Code', monospace;">📊 Analytics & Stats</h2>
 
 <p align="center">
   <!-- Repository Language Stats -->
@@ -144,20 +146,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
 
-### 🏆 GitHub Trophies
+<h3 style="font-family: 'Fira Code', monospace;">🏆 GitHub Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=JacksonHe04&theme=flat&rank=-?&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 🟩 Contribution Grid
+<h3 style="font-family: 'Fira Code', monospace;">🟩 Contribution Grid</h3>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/2ea043/JacksonHe04" alt="Contribution Grid" />
 </div>
 
-### 🐍 Contribution Snake Game
+<h3 style="font-family: 'Fira Code', monospace;">🐍 Contribution Snake Game</h3>
 
 <div align="center">
   <img src="https://github.com/jacksonhe04/jacksonhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
 </div>
