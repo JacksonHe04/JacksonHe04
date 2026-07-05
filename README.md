@@ -19,14 +19,14 @@
   <a href="https://inon.space" target="_blank">
     <img src="https://img.shields.io/badge/Website-inon.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="https://jacksonhe.notion.site" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <a href="https://github.com/JacksonHe04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/y1n8y1n8" target="_blank">
+    <img src="https://img.shields.io/badge/X-y1n8y1n8-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
   <a href="mailto:yingyingdontkill@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/JacksonHe04">
-    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -120,7 +120,7 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
-## 📈 Coding Preferences
+## 📊 Analytics & Stats
 
 <p align="center">
   <!-- Repository Language Stats -->
@@ -136,22 +136,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
 </p>
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=default&hide_border=false" alt="GitHub Streak" />
+  <!-- Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=default&hide_border=false" />
+  <!-- Profile details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jacksonhe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=JacksonHe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 📈 Contribution Grid
+### 🟩 Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonHe04&theme=react-dark" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/JacksonHe04" alt="Contribution Grid" />
 </div>
 
 ### 🐍 Contribution Snake Game
@@ -159,8 +160,3 @@
 <div align="center">
   <img src="https://github.com/jacksonhe04/jacksonhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
-
-<p align="center">
-  <!-- Profile details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
-</p>
