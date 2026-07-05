@@ -11,22 +11,22 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Evolve+and+close+the+loop+like+an+Agent." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Agent+Memory+%7C+AI+Infra" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://inon.space" target="_blank">
-    <img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-inon.space-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Website" />
   </a>
   <a href="https://github.com/JacksonHe04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
   <a href="https://x.com/y1n8y1n8" target="_blank">
-    <img src="https://img.shields.io/badge/X-y1n8y1n8-2ea043?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/X-y1n8y1n8-2ea043?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter" />
   </a>
   <a href="mailto:yingyingdontkill@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
 </p>
 
@@ -35,7 +35,13 @@
 </p>
 
 <p align="center">
-  <em>Evolve and close the loop like an Agent.<br>In this era, there are no real barriers at the execution layer, but you must master three things: <strong>Practice, ROI, Clean</strong></em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=4000&pause=2000&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent." alt="Motto SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>In this era, there are no real barriers at the execution layer, but you must master three things: <strong>Practice, ROI, Clean</strong></em>
 </p>
 
 ## 🚀 Journey
