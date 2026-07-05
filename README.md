@@ -28,11 +28,11 @@
   <a href="mailto:yingyingdontkill@gmail.com">
     <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-Active-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1&pause=1000000&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent.&hideCursor=true" alt="Motto" />
 </p>
 
 <p align="center">
