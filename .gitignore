@@ -1,0 +1,9 @@
+# Agents
+.agents/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
