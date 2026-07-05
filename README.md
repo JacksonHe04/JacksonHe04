@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  I'm interested in and have practiced <strong>Coding Agent</strong>, <strong>AI DevOps</strong>, <strong>Multi-modal & World Model</strong>, <strong>Enterprise Agentic Reconstruction</strong>, <strong>Agent Memory</strong>, <strong>AI Infra</strong>, and <strong>Proactive AI</strong>.
-</p>
-
-<p align="center">
   <em>Evolve and close the loop like an Agent.<br>In this era, there are no real barriers at the execution layer, but you must master three things: <strong>Practice, ROI, Clean</strong></em>
 </p>
 
@@ -134,6 +130,8 @@
 </p>
 
 <p align="center">
+  <!-- Overall Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacksonHe04&theme=default" />
   <!-- Productive Time Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
 </p>
@@ -147,10 +145,16 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jacksonhe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jacksonhe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 🐍 Contribution Graph
+### 📈 Contribution Grid
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonHe04&theme=react-dark" alt="Contribution Activity Graph" />
+</div>
+
+### 🐍 Contribution Snake Game
 
 <div align="center">
   <img src="https://github.com/jacksonhe04/jacksonhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
