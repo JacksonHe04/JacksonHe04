@@ -11,27 +11,27 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Evolve+and+close+the+loop+like+an+Agent." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2EA043&center=true&vcenter=true&width=600&lines=Coding+Agent+%7C+AI+DevOps;Multi-modal+%26+World+Model;Enterprise+Agentic+Reconstruction;Evolve+and+close+the+loop+like+an+Agent." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://inon.space" target="_blank">
-    <img src="https://img.shields.io/badge/Website-inon.space-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-inon.space-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/JacksonHe04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JacksonHe04-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/y1n8y1n8" target="_blank">
-    <img src="https://img.shields.io/badge/X-y1n8y1n8-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+    <img src="https://img.shields.io/badge/X-y1n8y1n8-238636?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
   <a href="mailto:yingyingdontkill@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-yingyingdontkill%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonhe04" />
+  <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=2ea043&style=flat" alt="jacksonhe04" />
 </p>
 
 <p align="center">
@@ -124,35 +124,35 @@
 
 <p align="center">
   <!-- Repository Language Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=solarized_dark" />
   <!-- Most Committed Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=solarized_dark" />
 </p>
 
 <p align="center">
   <!-- Overall Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacksonHe04&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacksonHe04&theme=solarized_dark" />
   <!-- Productive Time Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=solarized_dark&utcOffset=8" />
 </p>
 
 <p align="center">
   <!-- Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=default&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonHe04&theme=green&hide_border=false" />
   <!-- Profile details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=solarized_dark" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=JacksonHe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=JacksonHe04&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ### 🟩 Contribution Grid
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/JacksonHe04" alt="Contribution Grid" />
+  <img src="https://ghchart.rshah.org/2ea043/JacksonHe04" alt="Contribution Grid" />
 </div>
 
 ### 🐍 Contribution Snake Game
