@@ -31,13 +31,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=2ea043&style=flat" alt="jacksonhe04" />
+  <img src="https://komarev.com/ghpvc/?username=jacksonhe04&label=Profile%20views&color=2ea043&style=for-the-badge&labelColor=0d1117" alt="jacksonhe04" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=4000&pause=2000&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent." alt="Motto SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=1&pause=0&color=2EA043&center=true&vcenter=true&width=600&lines=Evolve+and+close+the+loop+like+an+Agent." alt="Motto" />
 </p>
 
 <p align="center">
