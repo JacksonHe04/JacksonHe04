@@ -1,13 +1,13 @@
 <p align="center">
-  🌐 <strong>Languages:</strong> 
+  🌐 <strong>语言选择 / Languages:</strong> 
   <a href="./README.md">English</a> | 
   <a href="./README.zh-CN.md">简体中文</a> | 
   <a href="./README.zh-TW.md">繁體中文</a> | 
   <a href="./README.ja.md">日本語</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jackson He</h1>
-<h3 align="center">An AI Native Product Engineer and Full-stack Developer From China</h3>
+<h1 align="center">Hi 👋, 我是 Jackson He (何锦诚)</h1>
+<h3 align="center">来自中国的全栈开发者 & AI 原生产品工程师</h3>
 
 <p align="center">
   <a href="https://inon.space" target="_blank">
@@ -23,31 +23,31 @@
 </p>
 
 <p align="center">
-  I'm interested in and have practiced <strong>Coding Agent</strong>, <strong>AI DevOps</strong>, <strong>Multi-modal & World Model</strong>, <strong>Enterprise Agentic Reconstruction</strong>, <strong>Agent Memory</strong>, <strong>AI Infra</strong>, and <strong>Proactive AI</strong>. Feel free to chat with me: <a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
+  我关注并实践 <strong>Coding Agent</strong>、<strong>AI DevOps</strong>、<strong>多模态与世界模型 (Multi-modal & World Model)</strong>、<strong>企业级 Agent 重构</strong>、<strong>Agent 记忆机制 (Agent Memory)</strong>、<strong>AI Infra</strong> 以及 <strong>主动式 AI (Proactive AI)</strong>。欢迎随时与我交流：<a href="mailto:yingyingdontkill@gmail.com">yingyingdontkill@gmail.com</a>
 </p>
 
 <p align="center">
-  <em>Evolve and close the loop like an Agent.<br>In this era, there are no real barriers at the execution layer, but you must master three things: <strong>Practice, ROI, Clean</strong></em>
+  <em>像 Agent 一样，自进化，自闭环。<br>这个时代在执行层并没有什么壁垒可言，但你得做好这三件事：<strong>Practice, ROI, Clean</strong></em>
 </p>
 
-## 🚀 Journey
+## 🚀 个人历程
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/df20db8d9ea9906395316106a4f37a3670e15b4a/seu_logo_svg_full.svg" height="30" alt="Southeast University" />
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/df20db8d9ea9906395316106a4f37a3670e15b4a/seu_logo_svg_full.svg" height="30" alt="东南大学" />
   
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/zai_logo_svg.svg" height="30" alt="Z.AI" />
   
-  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="美团" />
 </p>
 
 <p align="center">
-  <em>Southeast University → Z.AI → Meituan</em>
+  <em>东南大学 → Z.AI → 美团</em>
 </p>
 
-## 🛠 Tech Stack
+## 🛠 技术栈
 
 <p align="center">
-  <em>For every tech stack listed below, I can tell you a story of my journey with it, like tracks on an album.</em>
+  <em>以下每个技术栈，我都能和你讲一个我和它的故事，就像一张专辑一样。</em>
 </p>
 
 <div align="center">
@@ -112,35 +112,35 @@
 <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
-## 📈 Coding Preferences
+## 📈 编码偏好统计
 
 <p align="center">
-  <!-- Repository Language Stats -->
+  <!-- 仓库语言统计 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacksonHe04&theme=default" />
-  <!-- Most Committed Languages -->
+  <!-- 提交语言统计 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacksonHe04&theme=default" />
 </p>
 
 <p align="center">
-  <!-- Productive Time Stats -->
+  <!-- 提交时间统计 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacksonHe04&theme=default&utcOffset=8" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub 数据统计
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub 奖牌
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jacksonhe04&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 🐍 Contribution Graph
+### 🐍 贡献图
 
 <div align="center">
   <img src="https://github.com/jacksonhe04/jacksonhe04/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 <p align="center">
-  <!-- Profile details -->
+  <!-- 个人数据明细 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonHe04&theme=default" />
 </p>
