@@ -1,5 +1,6 @@
 # Agents
 .agents/
+native/
 
 # OS / Editor
 .DS_Store
