@@ -66,7 +66,7 @@
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2+%E2%86%92+Sand+AI&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团 → Sand AI" />
 </p>
 
 <br>

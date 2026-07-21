@@ -66,7 +66,7 @@
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=Southeast+University+%E2%86%92+Z.AI+%E2%86%92+Meituan&hideCursor=true" alt="Southeast University → Z.AI → Meituan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=Southeast+University+%E2%86%92+Z.AI+%E2%86%92+Meituan+%E2%86%92+Sand+AI&hideCursor=true" alt="Southeast University → Z.AI → Meituan → Sand AI" />
 </p>
 
 <br>
