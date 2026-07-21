@@ -60,6 +60,8 @@
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/zai_logo_svg.svg" height="30" alt="Z.AI" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/ee20875519d7594ac841a9cbb26bee645b6138af/sand-ai.svg" height="30" alt="Sand AI" />
 </p>
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
