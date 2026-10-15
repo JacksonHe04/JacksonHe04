@@ -62,11 +62,13 @@
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/25c2e824badc20c4650f876cf9ed5c6cb49a7af8/meituan_logo_svg.svg" height="30" alt="Meituan" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/ee20875519d7594ac841a9cbb26bee645b6138af/sand-ai.svg" height="30" alt="Sand AI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/JacksonHe04/public-disk/5aa8c10a124581fadb844a04a36871c676ac9df0/baidu.svg" height="30" alt="Baidu" />
 </p>
 
 <!-- Journey Subtitle (Group B: size=13, height=22) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2+%E2%86%92+Sand+AI&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团 → Sand AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&height=22&duration=1000&pause=1000000&color=8B949E&center=true&vcenter=true&width=500&lines=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6+%E2%86%92+%E6%99%BA%E8%B0%B1+Z.AI+%E2%86%92+%E7%BE%8E%E5%9B%A2+%E2%86%92+Sand+AI+%E2%86%92+%E7%99%BE%E5%BA%A6&hideCursor=true" alt="东南大学 → 智谱 Z.AI → 美团 → Sand AI → 百度" />
 </p>
 
 <br>
